@@ -27,7 +27,6 @@ vconfig.h: Makefile
 
 $(VCONFIG): $(VLAN_OBJS)
 	$(CC) $(CCFLAGS) $(LDFLAGS) -o $(VCONFIG) $(VLAN_OBJS) $(LDLIBS)
-	$(STRIP) $(VCONFIG)
 
 macvlan_config: macvlan_config.c
 	$(CC) $(CCFLAGS) $(LDFLAGS) -o $@ $<
