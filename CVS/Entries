@@ -1,0 +1,17 @@
+/vlan_2.2.patch/1.7/Mon Jan 15 03:30:45 2001//
+D/contrib////
+/vconfig.8/1.1/Sat Oct 20 22:57:02 2001//
+/vconfig.spec/1.1/Thu Apr 18 00:11:42 2002//
+/vlan_test.pl/1.5/Wed Aug 28 08:11:49 2002//
+/vlan_test2.pl/1.1/Wed Nov  6 08:34:37 2002//
+D/libpcap-0.4////
+D/tcpdump-3.4////
+/howto.html/1.2/Fri Jul  4 16:53:40 2003//
+/vlan.html/1.26/Tue Apr  8 15:44:00 2003//
+/vconfig.c/1.7/Thu Jul 31 22:43:08 2003//
+/macvlan_config.c/1.4/Tue Aug 12 19:36:36 2003//
+/CHANGELOG/1.19/Tue Sep 30 21:01:55 2003//
+/MakeInclude/1.8/Mon Aug 25 17:08:18 2003//
+/Makefile/1.7/Tue Sep 30 21:04:14 2003//
+/README/1.7/Tue Sep 30 21:03:42 2003//
+/candela_2.4.21.patch/1.4/Tue Sep 30 21:05:04 2003//
