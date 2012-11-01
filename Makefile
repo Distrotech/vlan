@@ -3,7 +3,7 @@
 include MakeInclude
 
 PREFIX=/usr
-BINDIR=$(PREFIX)/bin
+BINDIR=$(PREFIX)/sbin
 MANDIR=$(PREFIX)/share/man
 
 INSTALL= ginstall
