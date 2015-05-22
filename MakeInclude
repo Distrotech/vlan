@@ -16,7 +16,7 @@ ifeq "${PLATFORM}" ""
 endif
 
 ## You may need to change this linux/include part.
-CCFLAGS = -g -D_GNU_SOURCE -Wall -I${HOME}/linux/include
+CCFLAGS = -g -D_GNU_SOURCE -Wall
 LDLIBS = # -lm #-lnsl # -lsocket
 
 ARM_TC_BIN = ${HOME}/Intrinsyc/bin
